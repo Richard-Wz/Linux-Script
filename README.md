@@ -1,7 +1,6 @@
 # Linux Script
 
 [![Bash](https://img.shields.io/badge/Language-Bash-89e051.svg)](https://www.gnu.org/software/bash/)
-[![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-E95420? logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 
 ## Script
 
